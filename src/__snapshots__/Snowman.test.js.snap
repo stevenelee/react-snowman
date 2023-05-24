@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`losing functionality is working 1`] = `
+<div>
+  <div
+    class="Snowman"
+  >
+    <img
+      alt="6"
+      src="6.png"
+    />
+    <p
+      class="Snowman-wrong"
+    >
+      Number wrong: 
+      6
+    </p>
+    <p
+      class="Snowman-word"
+    >
+      _
+    </p>
+    <p>
+      YOU LOSE
+      <br />
+      Word is: 
+      t
+    </p>
+  </div>
+</div>
+`;
